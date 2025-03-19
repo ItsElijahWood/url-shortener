@@ -1,0 +1,8 @@
+[package]
+name = "url-shortener"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+rand = "0.9.0"
+rusqlite = "0.34.0"
